@@ -1,0 +1,18 @@
+.ISS-located {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.ISS-located-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.coordinates {
+    display: flex;
+    font-style: italic;
+}
+
+.longitude {
+    margin-right: 5px;
+}

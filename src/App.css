@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  width: 1000px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.main-container {
+  width: calc( 70% - 10px );
+  margin-right: 10px;
+}
+
+.left-side-container {
+  width: 30%;
+}
+
+.current-time-container,
+.located-container {
+  margin-bottom: 10px;
+}

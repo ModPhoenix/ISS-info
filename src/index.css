@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.pin {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: red;
+}
+
+.current-time {
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.current-time .time {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
