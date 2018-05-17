@@ -2,6 +2,7 @@
   "name": "iss-info",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://modphoenix.github.io/ISS-info/",
   "dependencies": {
     "axios": "^0.18.0",
     "google-map-react": "^1.0.3",
