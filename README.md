@@ -3,4 +3,4 @@
 
 Хотел использовать картинку в качестве маркера, но красная точка выглядит красивее.
 
-GitHub Pages [GitHub Pages https://modphoenix.github.io/ISS-info/](GitHub Pages https://modphoenix.github.io/ISS-info/)
+GitHub Pages [https://modphoenix.github.io/ISS-info/](https://modphoenix.github.io/ISS-info/)
